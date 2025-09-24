@@ -1,0 +1,14 @@
+{
+  "dart.flutterSdkPath": null,
+  "dart.lineLength": 100,
+  "dart.closingLabels": true,
+  "dart.previewFlutterUiGuides": true,
+  "dart.previewFlutterUiGuidesCustomTracking": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "files.associations": {
+    "*.dart": "dart"
+  }
+}
